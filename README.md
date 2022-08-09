@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vikas031
 - 👀 I’m interested in Machine learning and web-development
-- 🌱 I’m currently learning Full Stack MERN Web Development
+- 🌱 Full Stack Web Developer
 - 📫 How to reach me mailto: vikasbhandari031@gmail.com
 - Portfolio Website : https://vikas031.github.io/Portfolio-website/
 
