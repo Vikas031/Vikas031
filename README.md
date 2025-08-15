@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vikas031
+- 👋 Hi, I’m Vikas
 - 👀 I’m interested in Machine learning and web-development
 - 🌱 Full Stack Web Developer
 - 📫 How to reach me mailto: vikasbhandari031@gmail.com
